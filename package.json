@@ -1,7 +1,7 @@
 {
   "name": "resourceful-coder",
   "version": "0.1.0",
-  "description": "Converts resourceful resource back into the JavaScript code which generated them",
+  "description": "Converts resourceful resource back into the JavaScript code which created them",
   "main": "/lib/resourceful-coder.js",
   "author": "marak",
   "license": "MIT"

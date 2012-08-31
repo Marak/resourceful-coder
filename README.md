@@ -1,10 +1,10 @@
 # Resourceful-coder
 
-Converts resourceful resource back into the JavaScript code which generated them.
+Converts resourceful resource back into the JavaScript code which created them.
 
 ## You should probably not be using this project
 
-#### The intended use of this project is for generating documentation code examples
+### The intended use of this project is for generating documentation code examples.
 
 ### If you use this as a scaffolding tool or as some wierd reflection solution I probably won't approve.
 
