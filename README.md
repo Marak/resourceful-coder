@@ -1,6 +1,6 @@
 # Resourceful-coder
 
-Converts resourceful resource back into the JavaScript code which created them.
+Converts resourceful resources back into the JavaScript code which created them.
 
 ## You should probably not be using this project
 
@@ -25,4 +25,6 @@ console.log(coder.code(Creature));
 
 # Tests
 
-No test suite. Should add basic resource fitness test. Check examples.
+No test suite yet, should add basic resource fitness test.
+
+Code examples are working, check those out instead.
