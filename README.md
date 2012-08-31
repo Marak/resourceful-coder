@@ -21,7 +21,7 @@ var coder = require('resourceful-coder');
 console.log(coder.code(Creature));
 ```
 
-**See more complete example [here](http://github.com/marak/resourceful-coder/)**
+**See more complete example [here](https://github.com/Marak/resourceful-coder/blob/master/examples/simple.js)
 
 # Tests
 
