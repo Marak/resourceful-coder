@@ -6,7 +6,7 @@ Converts resourceful resources back into the JavaScript code which created them.
 
 ### The intended use of this project is for generating documentation code examples.
 
-### If you use this as a scaffolding tool or as some wierd reflection solution I probably won't approve.
+### If you use this as a scaffolding tool or as some weird reflection solution I probably won't approve.
 
 # Installation
 
